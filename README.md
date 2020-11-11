@@ -46,6 +46,6 @@ pip install tensorflow
 2 Install PixelLib
 pip install pixellib (https://pypi.org/project/pixellib/)
 
-3 Download the deeplabv3+ pascalvoc model (Check it out in the files section of this repo)
+3 Download the deeplabv3+ pascalvoc model from [here](https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5) 
 
 
