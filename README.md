@@ -24,13 +24,28 @@ The original image was:
 
 ![bus](https://user-images.githubusercontent.com/66153946/98776433-ea132080-2414-11eb-8416-c4388c3f63f0.jpg)
 
+And the updated image formed is:
+
+![new_bus](https://user-images.githubusercontent.com/66153946/98777159-3f036680-2416-11eb-9a49-774fa644d7c0.jpg)
+
 It's good enough for a picture with humans though!
 
+The original image was:
+
+![brooklyn](https://user-images.githubusercontent.com/66153946/98777384-9f92a380-2416-11eb-9b2b-ef7bc2896a2b.jpg)
+
+And the updated image turns out to be:
+
+![new_brook](https://user-images.githubusercontent.com/66153946/98777401-a6b9b180-2416-11eb-8dd9-8de2908fff52.jpg)
+
 All you have to do to get started is:
+
 1 Install tensorflow if you don't have it yet(PixelLib supports tensorflow 2.0 and above)
 pip install tensorflow
 
 2 Install PixelLib
 pip install pixellib (https://pypi.org/project/pixellib/)
+
+3 Download the deeplabv3+ pascalvoc model (Check it out in the files section of this repo)
 
 
