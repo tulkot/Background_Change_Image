@@ -1,6 +1,6 @@
 # Background_Change_Image
 
-This rep is about changing the background of any image with merely 4-5 lines of code. A library in Python called PixelLib, makes this happen! 
+This repo is about changing the background of any image with merely 4-5 lines of code. A library in Python called PixelLib, makes this happen! 
 
 PixelLib is a library created to ensure easy integration of image segmentation in real life applications. PixelLib now supports a feature known as image tuning.
 
@@ -37,6 +37,8 @@ The original image was:
 And the updated image turns out to be:
 
 ![new_brook](https://user-images.githubusercontent.com/66153946/98777401-a6b9b180-2416-11eb-8dd9-8de2908fff52.jpg)
+
+Check out other sample in the files section.
 
 All you have to do to get started is:
 
