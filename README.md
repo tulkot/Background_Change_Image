@@ -19,6 +19,11 @@ Background effects supported are:
 
 However, when I tried the library over a variety of images, it gave best results on human pictures. With pictures of dogs, buses etc., it manages to mask the object well i.e. select the main object of the image well, but tends to blend the colors of the image.
 
+An example of this is given below:
+The original image was:
+
+![bus](https://user-images.githubusercontent.com/66153946/98776433-ea132080-2414-11eb-8416-c4388c3f63f0.jpg)
+
 It's good enough for a picture with humans though!
 
 All you have to do to get started is:
